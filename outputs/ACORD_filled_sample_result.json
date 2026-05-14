@@ -1,0 +1,29 @@
+{
+  "extractedFields": {
+    "policy_number": "SFA-TXA-2024-884321",
+    "policyholder_name": "Marcus J. Holloway",
+    "effective_date": null,
+    "expiration_date": null,
+    "incident_date": "03/14/2024",
+    "incident_time": "02:30",
+    "location": "1800 W 6th Street & Lamar Blvd, Austin, TX 78703",
+    "description": "Insured vehicle was traveling westbound on W 6th Street when a red sedan (other vehicle) ran a red light at the Lamar Blvd intersection and struck the insured vehicle on the driver-side front quarter panel. Airbags deployed. No injuries reported. Both vehicles were drivable. Police arrived on scene and filed report APD-2024-038821.",
+    "claim_type": "Collision",
+    "estimated_damage": "8,450.00",
+    "initial_estimate": "8,450.00",
+    "asset_type": "4-Door Sedan",
+    "asset_id": "TXA-8821",
+    "claimant": "Marcus J. Holloway",
+    "third_parties": [
+      "Diana Torres, 512 Congress Ave, Austin TX 78701"
+    ],
+    "contact_details": {
+      "primary_phone": "(512) 555-0374",
+      "primary_email": "marcus.holloway@gmail.com"
+    },
+    "attachments": null
+  },
+  "missingFields": [],
+  "recommendedRoute": "Fast-track",
+  "reasoning": "Estimated damage $8,450.00 is below the $25,000 threshold."
+}
